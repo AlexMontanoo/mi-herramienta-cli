@@ -11,7 +11,7 @@ resultado = celsius_a_fahrenheit(temperatura)
 
 print(f"{temperatura}°C equivalen a {resultado:.2f}°F")
 
-millas = float(input("Ingresa la distancia en millas: "))
+millas = float(input("Ingresa la distancia en millas karnal "))
 kilometros = millas_a_kilometros(millas)
 
 print(f"{millas} millas equivalen a {kilometros:.2f} km")
