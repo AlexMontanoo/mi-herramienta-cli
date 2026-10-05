@@ -18,7 +18,7 @@ if opcion == "1":
     print(f"{temperatura}°C equivalen a {resultado:.2f}°F")
 
 elif opcion == "2":
-    millas = float(input("Ingresa la distancia en millas krnalasouwu "))
+    millas = float(input("Ingresa la distancia en millas karnalaso "))
     kilometros = millas_a_kilometros(millas)
     print(f"{millas} millas equivalen a {kilometros:.2f} km")
 
